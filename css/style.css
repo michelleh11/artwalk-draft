@@ -3,8 +3,9 @@ body{
     height: 100vh;
 }
 
-.home-body{
-    overflow-x: hidden;
+.home-main{
+    overflow: hidden;
+    position: relative;
 }
 
 :root{
